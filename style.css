@@ -16,6 +16,9 @@
     font-size: 25px;
     margin-left: 610px;
 }
+#foot{
+    margin-left: 600px;
+}
 
 /* topics.html */
 
@@ -30,6 +33,7 @@ table, th,td{
     border: solid;
     font-size: 30px;
     margin-left: 425px;
+    margin-bottom: 20px;
 }
 
 .item{
