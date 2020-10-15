@@ -1,0 +1,45 @@
+/* index.html  */
+
+#title{
+    margin-left: 550px;
+    margin-bottom: 0px;
+    color: red;
+    font-size: 50px;
+}
+#line{
+    font-size: 20px;
+    margin-left: 500px;
+    
+}
+#goto{
+    color: green;
+    font-size: 25px;
+    margin-left: 610px;
+}
+
+/* topics.html */
+
+#topic{
+    
+    font-size: 100px;
+    margin-left: 550px;
+}
+
+table, th,td{
+    border-collapse: collapse;
+    border: solid;
+    font-size: 30px;
+    margin-left: 425px;
+}
+
+.item{
+    color: blue;
+    border-color: black;
+    
+}
+
+
+
+
+
+
