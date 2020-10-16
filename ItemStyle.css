@@ -1,0 +1,25 @@
+table,th,td{
+    border-collapse: collapse;
+    border: solid;
+    font-size: 25px;
+    margin-bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#title{
+    font-size: 60px;
+    text-decoration: underline;
+}
+
+.item{
+    color: blue;
+    border-color: black;
+    text-align: left;
+    padding: 5px;
+}
+#main{
+    max-width: 1000px;
+    margin: auto;
+    text-align: center;
+}

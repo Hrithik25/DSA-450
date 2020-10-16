@@ -27,21 +27,27 @@
 #topic{
     
     font-size: 100px;
-    margin-left: 550px;
+    text-decoration: underline;
 }
 
 table, th,td{
     border-collapse: collapse;
     border: solid;
     font-size: 30px;
-    margin-left: 425px;
-    margin-bottom: 20px;
+    margin-bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .item{
     color: blue;
     border-color: black;
     
+}
+#topicmain{
+    max-width: 1000px;
+    margin: auto;
+    text-align: center;
 }
 
 
